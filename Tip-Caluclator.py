@@ -1,6 +1,6 @@
 """
 Create a program that calculates a Bill.
-With a tip of 12% and it should be splited amongs an inputed number of persons equally.
+With a tip selected and it should be splited amongs an inputed number of persons equally.
 
 """
 
